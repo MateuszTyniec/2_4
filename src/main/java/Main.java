@@ -8,9 +8,6 @@ public class Main {
         for (int i = 0; i < name.length(); i++){
           System.out.println(name.charAt(i));
         }
-
-        
-
   // @Test
   // void addition() {
   //     assertEquals(2, 1 + 1);
